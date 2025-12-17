@@ -1,0 +1,65 @@
+############################
+# Fiji / ImageJ
+############################
+
+# Fiji temporary and cache files
+*.tmp
+*.log
+*.ijlog
+*.txt~
+
+# ImageJ backups
+*.bak
+
+############################
+# Microscopy data (RAW)
+############################
+
+# Olympus
+*.oir
+
+# Other common microscopy formats (optional)
+*.czi
+*.lif
+*.nd2
+*.lsm
+*.dv
+
+############################
+# Processed image outputs
+############################
+
+# Common image outputs
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+
+############################
+# OS-specific files
+############################
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+############################
+# Editor / IDE files
+############################
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+############################
+# Logs & runtime folders
+############################
+
+logs/
+output_data/
