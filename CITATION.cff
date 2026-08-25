@@ -1,0 +1,12 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Viswanathan
+    given-names: Arun
+    orcid: https://orcid.org/0000-0002-5682-5170
+title: "Fiji-Oir-Macro"
+version: 1.0
+identifiers:
+  - type: doi
+    value: https://doi.org/10.5281/zenodo.22094129
+date-released: 2026-08-25
