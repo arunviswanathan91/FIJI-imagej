@@ -3,6 +3,7 @@
 ## Overview
 
 Fiji / ImageJ macros for automated batch processing of Olympus OIR microscopy files. Handles channel splitting, Z-stack projection, and composite image generation across nested directory structures with no manual interaction.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22094129.svg)](https://doi.org/10.5281/zenodo.22094129)
 ---
 
